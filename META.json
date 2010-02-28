@@ -1,0 +1,25 @@
+{
+   "resources" : {
+      "homepage" : "http://search.cpan.org/dist/Dist-Zilla-Plugin-Signature/",
+      "repository" : "http://github.com/gbarr/Dist-Zilla-Plugin-Signature"
+   },
+   "generated_by" : "Dist::Zilla version ",
+   "meta-spec" : {
+      "version" : 1.4,
+      "url" : "http://module-build.sourceforge.net/META-spec-v1.4.html"
+   },
+   "version" : "1.100590",
+   "name" : "Dist-Zilla-Plugin-Signature",
+   "author" : [
+      "Graham Barr"
+   ],
+   "license" : "perl",
+   "requires" : {
+      "Module::Signature" : "0",
+      "Dist::Zilla" : "9999",
+      "ExtUtils::MakeMaker" : "6.11",
+      "File::chdir" : "0"
+   },
+   "abstract" : "sign releases with Module::Signature"
+}
+
