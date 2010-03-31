@@ -2,18 +2,18 @@
 abstract: 'sign releases with Module::Signature'
 author:
   - 'Graham Barr'
-generated_by: 'Dist::Zilla version '
+generated_by: 'Dist::Zilla version 1.100521'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
 name: Dist-Zilla-Plugin-Signature
 requires:
-  Dist::Zilla: 9999
+  Dist::Zilla: 0
   ExtUtils::MakeMaker: 6.11
   File::chdir: 0
   Module::Signature: 0
 resources:
   homepage: http://search.cpan.org/dist/Dist-Zilla-Plugin-Signature/
   repository: http://github.com/gbarr/Dist-Zilla-Plugin-Signature
-version: 1.100590
+version: 1.100900

@@ -17,12 +17,12 @@ my %WriteMakefileArgs = (
                        'AUTHOR' => 'Graham Barr',
                        'ABSTRACT' => 'sign releases with Module::Signature',
                        'EXE_FILES' => [],
-                       'VERSION' => '1.100590',
+                       'VERSION' => '1.100900',
                        'LICENSE' => 'perl',
                        'PREREQ_PM' => {
                                         'Module::Signature' => '0',
                                         'ExtUtils::MakeMaker' => '6.11',
-                                        'Dist::Zilla' => '9999',
+                                        'Dist::Zilla' => '0',
                                         'File::chdir' => '0'
                                       }
                      );
