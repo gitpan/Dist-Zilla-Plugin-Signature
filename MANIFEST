@@ -8,5 +8,4 @@ README
 README.md
 SIGNATURE
 lib/Dist/Zilla/Plugin/Signature.pm
-t/release-pod-coverage.t
-t/release-pod-syntax.t
+t/00-load.t
